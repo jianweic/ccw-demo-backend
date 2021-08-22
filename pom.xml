@@ -20,7 +20,7 @@
 	<repositories>
 		<repository>
           <id>github</id>
-          <url>https://maven.pkg.github.com/ajianweic/jsii-code-samples</url>
+          <url>https://maven.pkg.github.com/jianweic/jsii-code-samples</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
@@ -29,7 +29,7 @@
   </repositories>
   <dependencies>
 <dependency>
-  <groupId>software.aws.jsiisamples.jsii</groupId>
+  <groupId>affinidi.aws.jsiisamples.jsii</groupId>
   <artifactId>jsii-code-samples</artifactId>
   <version>1.7.0</version>
 </dependency>
